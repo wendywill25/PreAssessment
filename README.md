@@ -3,7 +3,7 @@ DevMountain Pre Assessment
 
 This repo contains all the neccessary information for the Pre Course assessment. Instructions.txt contains the neccessary instructions. Below are optional coding challenges that increase in difficulty. Although optional, we would love to see you take the challange and attempt them. 
 
-When you finish each fiddle, click the 'update' button and that will create your own URL with your solution. Change the SOLUTIONURL with your new URL that contains the solution.
+When you finish each fiddle, click the 'update' button and that will create your own URL with your solution. Change the SOLUTIONURL with your new URL that contains the solution. Once you finish, zip up your code and email back to admin+assessment@devmounta.in
 
 * [Name] - http://jsfiddle.net/U3ezV/ - SOLUTIONURL
 * [Double] - http://jsfiddle.net/hu85B/ - SOLUTIONURL
