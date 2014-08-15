@@ -1,6 +1,8 @@
 DevMountain Pre Assessment
 =========
 
+**Please complete this assessment within one week of receiving it.**
+
 This repo contains all the neccessary information for the Pre Course assessment. 
 
 The assessment is broken up into two parts. The first part is an HTML/CSS challenge that can be found with the code included in this repository. The second is a collection of JavaScript 'fiddles' described below. If you have and know git, go ahead and 'clone' this repo and get started. If you don't, click on the 'Download Zip' button to the right. 
