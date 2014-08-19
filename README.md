@@ -1,4 +1,4 @@
-DevMountain Pre Assessment
+DevMountain Pre-Assessment
 =========
 
 **Please complete this assessment within one week of receiving it.**
