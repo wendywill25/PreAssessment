@@ -18,7 +18,7 @@ When you finish each fiddle, click the 'update' button and that will create your
 * [Double] - http://jsfiddle.net/hu85B/ - SOLUTION-URL
 * [Addition] - http://jsfiddle.net/M8pZf/ - SOLUTION-URL
 * [First] - http://jsfiddle.net/zsFvE/ - SOLUTION-URL
-* [Last] -  http://jsfiddle.net/hJZUE/ - SOLUTION-URL
+* [Last] -  http://jsfiddle.net/rLes9kdb/ - SOLUTION-URL
 * [Loop] - http://jsfiddle.net/YM7th/ - SOLUTION-URL
 * [numSum] - http://jsfiddle.net/b2ysK/ - SOLUTION-URL
 * [oddsAndEvens] - http://jsfiddle.net/4zfcz/ - SOLUTION-URL
