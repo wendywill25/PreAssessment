@@ -11,7 +11,7 @@ The assessment is broken up into two parts. The first part is an HTML/CSS challe
 Instructions.txt contains the neccessary instructions for the first HTML/CSS challenge. 
 
 Below is a list of coding challenges that increase in difficulty. Please finish as many as you are able to complete.
-When you finish each fiddle, click the 'update' button and that will create your own URL with your solution. Change the SOLUTION-URL with your new URL that contains the solution. Once you finish, zip up your code and email back to admin+assessment@devmounta.in
+When you finish each fiddle, click the 'update' button and that will create your own URL with your solution. Change the SOLUTION-URL with your new URL that contains the solution. Once you finish, zip up your code and email back to interviews@devmounta.in
 
 * [Name] - http://jsfiddle.net/U3ezV/ - SOLUTION-URL
 * [Food] - http://jsfiddle.net/85Lp6mba/ - SOLUTION-URL
