@@ -20,7 +20,6 @@ When you finish each fiddle, click the 'update' button and that will create your
 * [First] - http://jsfiddle.net/zsFvE/ - SOLUTION-URL
 * [Last] -  http://jsfiddle.net/rLes9kdb/ - SOLUTION-URL
 * [Loop] - http://jsfiddle.net/YM7th/ - SOLUTION-URL
-* [numSum] - http://jsfiddle.net/b2ysK/ - SOLUTION-URL
 * [oddsAndEvens] - http://jsfiddle.net/4zfcz/ - SOLUTION-URL
 * [me] - http://jsfiddle.net/5Ua3r/ - SOLUTION-URL
 * [favoriteThings] - http://jsfiddle.net/zCcnT/ - SOLUTION-URL
