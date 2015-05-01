@@ -5,23 +5,17 @@ DevMountain Pre-Assessment
 
 This repo contains all the neccessary information for the Pre Course assessment. 
 
-The assessment is broken up into two parts. The first part is an HTML/CSS challenge that can be found with the code included in this repository. The second is a collection of JavaScript 'fiddles' described below. If you have and know git, go ahead and 'clone' this repo and get started. If you don't, click on the 'Download Zip' button to the right. 
-
+The assessment is broken up into two parts. The first part is an HTML/CSS challenge that can be found with the code included in this repository. The second is a collection of JavaScript challenges found on the codecardio website. If you have and know git, go ahead and 'clone' this repo and get started. If you don't, click on the 'Download Zip' button to the right. 
 
 Instructions.txt contains the neccessary instructions for the first HTML/CSS challenge. 
 
-Below is a list of coding challenges that increase in difficulty. Please finish as many as you are able to complete.
-When you finish each fiddle, click the 'update' button and that will create your own URL with your solution. Change the SOLUTION-URL with your new URL that contains the solution. Once you finish, zip up your code and email back to interviews@devmounta.in
+Below is a set of links that will get you started with the Javascript portion of the challenge. The questions will increase in difficulty. Please finish as many as you are able to complete. The more you complete, even if they're not perfect, the more we'll know about you and your ability to learn in an intense environment.
 
-* [Name] - http://jsfiddle.net/U3ezV/ - SOLUTION-URL
-* [Food] - http://jsfiddle.net/85Lp6mba/ - SOLUTION-URL
-* [Double] - http://jsfiddle.net/hu85B/ - SOLUTION-URL
-* [Addition] - http://jsfiddle.net/M8pZf/ - SOLUTION-URL
-* [First] - http://jsfiddle.net/zsFvE/ - SOLUTION-URL
-* [Last] -  http://jsfiddle.net/rLes9kdb/ - SOLUTION-URL
-* [Loop] - http://jsfiddle.net/YM7th/ - SOLUTION-URL
-* [oddsAndEvens] - http://jsfiddle.net/4zfcz/ - SOLUTION-URL
-* [me] - http://jsfiddle.net/5Ua3r/ - SOLUTION-URL
-* [favoriteThings] - http://jsfiddle.net/zCcnT/ - SOLUTION-URL
-* [firstLoop] - http://jsfiddle.net/Lgf3G/ - SOLUTION-URL
-* [userObj] - http://jsfiddle.net/VkvMV/ - SOLUTION-URL
+If you have any problems, questions, or concertns, please email back interviews@devmounta.in
+
+* [Sign up for codecardio](https://codecard.io/a/register)
+* Once you've registered, click this url: https://codecard.io/a/challenge/7YgspRtx?sequence=Brp4wLU1
+
+Work through each of the challenges, clicking Next each time you complete a challenge.
+
+When you are finished (or have gone as far as you can), please notify our interviewers at interviews@devmounta.in so they can review your submission.
