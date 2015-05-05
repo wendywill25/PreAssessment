@@ -19,3 +19,5 @@ If you have any problems, questions, or concertns, please email back interviews@
 Work through each of the challenges, clicking Next each time you complete a challenge.
 
 When you are finished (or have gone as far as you can), please notify our interviewers at interviews@devmounta.in so they can review your submission. **Make sure you send us your codecardio username so we can know where to look for your completed challenges.**
+
+For some extra guidance, you can follow this tutorial on how to use CodeCardio here: http://blog.jacobisraelturner.com/javascript/tutorial/codecardio/2015/05/05/CodeCardio-Tutorial.html
